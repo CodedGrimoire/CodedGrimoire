@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coded-grimoire&label=Profile%20views&color=0e75b6&style=flat" alt="coded-grimoire" /> </p>
 
-- 🌱 I’m currently learning **frontend development**
+- 💻 I’m currently a Computer Science and Engineering student
+
+- 🛠️ I’m presently learning **frontend development**
 
 - 💬 Ask me about **C,C++,JAVA**
 
@@ -12,7 +14,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TSpipx2ic2q27iNROcfbbs6v0yDfO3xf/view?usp=sharing](https://drive.google.com/file/d/1TSpipx2ic2q27iNROcfbbs6v0yDfO3xf/view?usp=sharing)
 
-- ⚡ Fun fact **cat lover**
+- 😾 **cat lover**
+  
+- 📖 Hobby **reading**
+
+- 📽️ Cinephile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
