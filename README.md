@@ -2,7 +2,7 @@
 <h3 align="center">Transforming ideas into code, one project at a time.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coded-grimoire&label=Profile%20views&color=0e75b6&style=flat" alt="coded-grimoire" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodedGrimoire&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 💻 I’m currently a **Computer Science and Engineering student**  
 - 🛠️ I’m presently learning **frontend development**  
@@ -14,6 +14,8 @@
 - 📽️ **Cinephile**  
 
 ---
+
+## 🚀 Skills & Technologies  
 
 ### 🌐 Web Development:
 <p align="left">
@@ -54,30 +56,29 @@
 ### 🐧 Operating Systems:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coded-grimoire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coded-grimoire&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded-grimoire&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 🚀 Contribution Graph:
+## 🚀 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coded-grimoire&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedGrimoire&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-### 📫 Connect with me:
+## 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tazkia-malik-42506129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@tazkiamalik-lr9fz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
