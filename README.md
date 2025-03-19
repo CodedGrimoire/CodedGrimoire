@@ -58,6 +58,25 @@
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coded-grimoire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coded-grimoire&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded-grimoire&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🚀 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coded-grimoire&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tazkia-malik-42506129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
