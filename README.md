@@ -19,7 +19,7 @@
 - 📫 Reach me at **tazkia-2021111183@cs.du.ac.bd**
 - 📄 Know about my experience:  
   [📌 CV](https://drive.google.com/file/d/1TSpipx2ic2q27iNROcfbbs6v0yDfO3xf/view?usp=sharing) |  
-  [📌 Resume]([https://drive.google.com/file/d/1hLveExj7SqmVBhYd49vqTJUNwhSlwkLK/view?usp=sharing](https://drive.google.com/file/d/1XdAi-f3p6eCMaJCQj3BNl5UrGeLV3NC6/view?usp=sharing))
+  [📌 Resume](https://drive.google.com/file/d/1hLveExj7SqmVBhYd49vqTJUNwhSlwkLK/view?usp=sharing)
 - 🐱 Cat lover & 📖 Avid reader  
 - 🎬 Cinephile
 
