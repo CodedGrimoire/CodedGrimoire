@@ -13,89 +13,92 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm currently a **Computer Science and Engineering student**
-- 🌱 I’m currently learning **frontend development**
-- 💬 Ask me about **C, C++, Java**
+- 💼 Currently working as a **Full Stack Developer & Backend Engineer**
+- 🎓 **Computer Science and Engineering** student
+- 🛠️ Experienced with **MERN Stack**, **Next.js**, **REST APIs**, and **Cloud Deployments**
+- 💬 Ask me about **C, C++, Java, Python, Backend Architecture & Scalable Systems**
 - 📫 Reach me at **tazkia-2021111183@cs.du.ac.bd**
 - 📄 Know about my experience:  
-  [📌 CV](https://drive.google.com/file/d/1TSpipx2ic2q27iNROcfbbs6v0yDfO3xf/view?usp=sharing) |  
-  [📌 Resume](https://drive.google.com/file/d/1qCln7tuG5djrYJIe-XTdztINthKinjaf/view?usp=sharing)
-- 🐱 Cat lover & 📖 Avid reader  
-- 🎬 Cinephile
+  📌 **CV:** https://drive.google.com/file/d/1TSpipx2ic2q27iNROcfbbs6v0yDfO3xf/view  
+  📌 **Resume:** https://drive.google.com/file/d/1qCln7tuG5djrYJIe-XTdztINthKinjaf/view
+- 🐱 Cat lover | 📖 Avid reader | 🎬 Cinephile
 
 ---
 
-## 🚀 Skills & Technologies  
+## 🚀 Tech Stack
+
+### 🧩 Full Stack Development
+- **MERN Stack (MongoDB, Express, React, Node.js)**
+- **Next.js + PostgreSQL**
+- **REST API & WebSocket based apps**
+- **Supabase, Firebase, Neon**
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ### 📱 Mobile Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </p>
 
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="40" height="40"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="Supabase" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/111381231?s=200&v=4" alt="Neon" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/111381231?s=200&v=4" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
- 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
 
 ### 🐧 Operating Systems
-
 - **Linux**
 - **macOS**
 - **Windows**
-
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🚀 Contribution Graph:
+## 🚀 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedGrimoire&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedGrimoire&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect with me:
+## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/tazkia-malik-42506129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tazkiamalik-lr9fz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tazkia_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tazkia-malik-42506129b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+<a href="https://www.youtube.com/c/@tazkiamalik-lr9fz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" /></a>
+<a href="https://www.leetcode.com/tazkia_007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
 </p>
