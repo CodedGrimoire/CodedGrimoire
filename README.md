@@ -1,9 +1,11 @@
+![banner](https://github.com/user-attachments/assets/5055b96b-68f9-426f-aa11-bd0aab7357f9)
 <h1 align="center">Hi, I'm Tazkia Malik 👋</h1>
 <h3 align="center">Transforming ideas into code, one project at a time 💻✨</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif" alt="coding" width="400"/>
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CodedGrimoire&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
