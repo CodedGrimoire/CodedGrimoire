@@ -80,7 +80,11 @@
 - **Windows**
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodedGrimoire&theme=dracula" width="80%" />
+</p>
 
+---
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=radical" width="48%" />
