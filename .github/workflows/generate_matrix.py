@@ -1,40 +1,37 @@
-import requests
-import datetime
+import random
 
-USERNAME = "CodedGrimoire"
-
-# Get contribution data from GitHub API
-url = f"https://api.github.com/users/{USERNAME}/events"
-response = requests.get(url)
-events = response.json()
-
-# Simple animation-style SVG
 width = 900
-height = 200
+height = 300
+columns = 30
 
-svg = f'''<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg">
-<style>
-@keyframes glow {{
-  0% {{ opacity: 0.3; }}
-  50% {{ opacity: 1; }}
-  100% {{ opacity: 0.3; }}
-}}
-.matrix {{
-  fill: #00ff00;
-  font-family: monospace;
-  font-size: 14px;
-  animation: glow 2s infinite;
-}}
-</style>
+chars = "01"
 
+svg_header = f'''<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg">
 <rect width="100%" height="100%" fill="black"/>
-<text x="20" y="40" class="matrix">
-Cyberpunk Contribution Stream
-</text>
-</svg>
 '''
 
-with open("matrix.svg", "w") as f:
-    f.write(svg)
+svg_content = ""
 
-print("Matrix SVG generated.")
+for i in range(columns):
+    x = i * (width // columns)
+    delay = random.uniform(0, 5)
+    duration = random.uniform(3, 6)
+
+    svg_content += f'''
+    <text x="{x}" y="-20" fill="#00ff00" font-size="14">
+        {random.choice(chars)}
+        <animate attributeName="y"
+                 from="-20"
+                 to="{height+20}"
+                 dur="{duration}s"
+                 begin="{delay}s"
+                 repeatCount="indefinite"/>
+    </text>
+    '''
+
+svg_footer = "</svg>"
+
+with open("matrix.svg", "w") as f:
+    f.write(svg_header + svg_content + svg_footer)
+
+print("Real Matrix rain generated.")
