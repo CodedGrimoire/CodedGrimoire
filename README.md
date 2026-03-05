@@ -104,11 +104,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 ---
-### 🐱 Contribution Cat
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodedGrimoire/CodedGrimoire/output/github-cat.gif" alt="Contribution Cat"/>
-</p>
 ## 🚀 Contribution Graph
 
 
