@@ -18,7 +18,7 @@ for i in range(columns):
     duration = random.uniform(3, 6)
 
     svg_content += f'''
-    <text x="{x}" y="-20" fill="#00ff00" font-size="14">
+    <text x="{x}" y="-20" fill="#9d00ff" font-size="14">
         {random.choice(chars)}
         <animate attributeName="y"
                  from="-20"
