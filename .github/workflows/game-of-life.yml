@@ -1,0 +1,50 @@
+name: Contribution Game of Life
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generate Game of Life SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/game-of-life.svg
+
+      - name: Commit and Push to output branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # Create orphan output branch
+          git checkout --orphan output
+
+          # Remove everything from index
+          git rm -rf . || true
+
+          # Move generated file to root
+          mkdir -p output
+          mv dist/game-of-life.svg output/github-contribution-grid-snake.svg
+
+          # Add file
+          git add output/github-contribution-grid-snake.svg
+
+          # Commit
+          git commit -m "Update Contribution Game of Life"
+
+          # Force push to output branch
+          git push origin output --force
