@@ -1,0 +1,49 @@
+name: Contribution Matrix
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generate Matrix Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          color_snake: "#00ff00"
+          color_dots: "#0f0f0f"
+          outputs: |
+            dist/matrix.svg
+
+      - name: Deploy to output branch (git push)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # Copy file to temp
+          mkdir -p temp
+          cp dist/matrix.svg temp/matrix.svg
+
+          # Create clean output branch
+          git checkout --orphan output
+          git rm -rf . || true
+
+          # Move file to root
+          cp temp/matrix.svg ./github-matrix.svg
+
+          # Commit and push
+          git add github-matrix.svg
+          git commit -m "Update Matrix contribution animation"
+          git push origin output --force
