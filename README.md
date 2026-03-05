@@ -99,12 +99,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CodedGrimoire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
----
-
 <img src="https://raw.githubusercontent.com/CodedGrimoire/CodedGrimoire/output/github-matrix.svg" />
 ## 🚀 Contribution Graph
 
