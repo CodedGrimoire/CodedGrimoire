@@ -1,0 +1,25 @@
+name: Generate Contribution Cat
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Cat Animation
+        run: |
+          mkdir output
+          curl -L https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif -o output/github-cat.gif
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
