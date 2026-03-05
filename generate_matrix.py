@@ -2,36 +2,25 @@ import random
 
 width = 900
 height = 300
-columns = 40
+columns = 50
 chars = "01"
 
 svg = f'''<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
-  <!-- Neon Glow Filter -->
+  <!-- Strong Neon Blue Glow -->
   <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
-    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feColorMatrix type="matrix"
+      values="0 0 0 0 0
+              0 0 0 0 0.8
+              0 0 0 0 1
+              0 0 0 1 0" />
     <feMerge>
       <feMergeNode in="blur"/>
       <feMergeNode in="SourceGraphic"/>
     </feMerge>
   </filter>
-
-  <!-- Color Shift Animation -->
-  <linearGradient id="colorShift" x1="0%" y1="0%" x2="0%" y2="100%">
-    <stop offset="0%" stop-color="#9d00ff">
-      <animate attributeName="stop-color"
-               values="#9d00ff;#ff00ff;#9d00ff"
-               dur="4s"
-               repeatCount="indefinite"/>
-    </stop>
-    <stop offset="100%" stop-color="#4b0082">
-      <animate attributeName="stop-color"
-               values="#4b0082;#9d00ff;#4b0082"
-               dur="4s"
-               repeatCount="indefinite"/>
-    </stop>
-  </linearGradient>
 
 </defs>
 
@@ -45,20 +34,20 @@ for i in range(columns):
     duration = random.uniform(3, 6)
     delay = random.uniform(0, 3)
 
-    for j in range(8):
-        y_start = random.randint(-300, 0)
+    for j in range(6):  # fewer per column to avoid overlap
+        y_start = random.randint(-height, 0)
         char = random.choice(chars)
 
         svg += f'''
-        <text x="{x}" y="{y_start}"
-              fill="url(#colorShift)"
-              font-size="16"
-              filter="url(#neonGlow)"
-              opacity="0.8">
-            
+        <text x="{x}"
+              y="{y_start}"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
             {char}
 
-            <!-- Falling Animation -->
             <animate attributeName="y"
                      from="{y_start}"
                      to="{height+20}"
@@ -66,18 +55,12 @@ for i in range(columns):
                      begin="{delay}s"
                      repeatCount="indefinite"/>
 
-            <!-- Pulsing Effect -->
-            <animate attributeName="opacity"
-                     values="0.3;1;0.3"
-                     dur="2s"
-                     repeatCount="indefinite"/>
-
         </text>
         '''
 
 svg += "</svg>"
 
-with open("matrix.svg", "w") as f:
+with open("github-matrix.svg", "w") as f:
     f.write(svg)
 
-print("Cyberpunk neon matrix generated.")
+print("Neon blue matrix generated.")
