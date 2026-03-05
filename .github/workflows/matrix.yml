@@ -1,4 +1,4 @@
-name: Contribution Matrix
+name: Cyberpunk Contribution Matrix
 
 on:
   schedule:
@@ -13,37 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Generate Matrix Snake SVG
-        uses: Platane/snk@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          color_snake: "#00ff00"
-          color_dots: "#0f0f0f"
-          outputs: |
-            dist/matrix.svg
+          python-version: "3.x"
 
-      - name: Deploy to output branch (git push)
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Generate Matrix SVG
+        run: |
+          python generate_matrix.py
+
+      - name: Deploy to output branch
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Copy file to temp
-          mkdir -p temp
-          cp dist/matrix.svg temp/matrix.svg
-
-          # Create clean output branch
           git checkout --orphan output
           git rm -rf . || true
 
-          # Move file to root
-          cp temp/matrix.svg ./github-matrix.svg
+          mv matrix.svg github-matrix.svg
 
-          # Commit and push
           git add github-matrix.svg
-          git commit -m "Update Matrix contribution animation"
+          git commit -m "Update Cyberpunk Matrix Animation"
           git push origin output --force
