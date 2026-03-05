@@ -1,6 +1,10 @@
-![banner](https://github.com/user-attachments/assets/5055b96b-68f9-426f-aa11-bd0aab7357f9)
-<h1 align="center">Hi, I'm Tazkia Malik 👋</h1>
-<h3 align="center">Transforming ideas into code, one project at a time 💻✨</h3>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tazkia+Malik+%F0%9F%91%8B;Transforming+ideas+into+code;One+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  
+</div>
+
+---
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif" alt="coding" width="400"/>
@@ -82,23 +86,29 @@
 - **Windows**
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodedGrimoire&theme=dracula" width="80%" />
-</p>
 
+
+
+### 🧊 3D Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodedGrimoire&theme=tokyonight" />
 ---
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&layout=compact&theme=radical" width="48%" />
-</p>
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodedGrimoire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CodedGrimoire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedGrimoire&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 ---
 
 ## 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedGrimoire&theme=radical" />
-</p>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedGrimoire&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
 
