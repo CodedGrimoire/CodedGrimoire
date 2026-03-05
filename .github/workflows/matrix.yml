@@ -1,4 +1,4 @@
-name: Cyberpunk Contribution Matrix
+name: Cyberpunk Matrix
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -24,12 +24,10 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
       - name: Generate Matrix SVG
-        run: |
-          python generate_matrix.py
+        run: python generate_matrix.py
 
       - name: Deploy to output branch
         run: |
@@ -39,8 +37,6 @@ jobs:
           git checkout --orphan output
           git rm -rf . || true
 
-          mv matrix.svg github-matrix.svg
-
           git add github-matrix.svg
-          git commit -m "Update Cyberpunk Matrix Animation"
+          git commit -m "Update Cyberpunk Matrix"
           git push origin output --force
