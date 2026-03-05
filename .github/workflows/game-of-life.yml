@@ -25,26 +25,26 @@ jobs:
           outputs: |
             dist/game-of-life.svg
 
-      - name: Commit and Push to output branch
+      - name: Deploy with git
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Create orphan output branch
+          # Save generated file
+          mkdir -p temp_output
+          cp dist/game-of-life.svg temp_output/github-contribution-grid-snake.svg
+
+          # Switch to orphan output branch
           git checkout --orphan output
 
-          # Remove everything from index
+          # Remove all files from branch
           git rm -rf . || true
 
-          # Move generated file to root
-          mkdir -p output
-          mv dist/game-of-life.svg output/github-contribution-grid-snake.svg
+          # Move file back
+          mkdir -p .
+          cp temp_output/github-contribution-grid-snake.svg .
 
-          # Add file
-          git add output/github-contribution-grid-snake.svg
-
-          # Commit
-          git commit -m "Update Contribution Game of Life"
-
-          # Force push to output branch
+          # Commit and push
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution animation"
           git push origin output --force
