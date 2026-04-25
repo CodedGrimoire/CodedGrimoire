@@ -12,36 +12,61 @@
 I am a **Computer Science and Engineering student** and **Full Stack Developer** focused on building scalable, clean, and practical software systems.
 
 - 💼 Currently working as a **Full Stack Developer & Backend Engineer**
-- 🎓 **Computer Science and Engineering** student
-- 🛠️ Experienced with **MERN Stack**, **Next.js**, **REST APIs**, and **Cloud Deployments**
-- 💬 Ask me about **C, C++, Java, Python, Backend Architecture & Scalable Systems**
+
 - 📫 Reach me at **tazkia-2021111183@cs.du.ac.bd**
 - 📄 Know about my experience:
   - 📌 **CV:** https://drive.google.com/file/d/1TSpipx2ic2q27iNROcfbbs6v0yDfO3xf/view
   - 📌 **Resume:** https://drive.google.com/file/d/1qCln7tuG5djrYJIe-XTdztINthKinjaf/view
   - 📌 **Portfolio:** https://tazkia-portfolio.vercel.app/
-- 🐱 Cat lover | 📖 Avid reader | 🎬 Cinephile
 
 
 
+## 🚀 Tech Stack Overview
 
-## 🚀 Tech Stack
+<table>
+<tr>
+<td align="center" width="25%">
 
-### 🧩 Full Stack Development
-- **MERN Stack** (MongoDB, Express, React, Node.js)
-- **Next.js + PostgreSQL**
-- **REST APIs & WebSocket-based applications**
-- **Supabase, Firebase, Neon**
+### ⚡ Full Stack  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 
-### ⚙️ Backend Engineering
-- **Node.js / Express** → Scalable APIs & real-time systems  
-- **FastAPI / Django** → High-performance backends & AI-integrated applications  
-- **Spring Boot** → Enterprise-grade backend architecture  
+<p>MERN, Next.js, REST, WebSockets</p>
 
-### 🗄️ Databases & Services
-- **PostgreSQL, MongoDB, MySQL**
-- **Supabase, Firebase, Neon**
-- **Vector-ready systems for AI / RAG pipelines**
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,spring" />
+
+<p>Scalable APIs, AI-integrated backends, enterprise systems</p>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+
+<p>SQL & NoSQL, cloud DB, real-time systems</p>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI / ML & RAG  
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /><br>
+
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/>
+
+<p>RAG pipelines, LLM apps, vector search</p>
+
+</td>
+</tr>
+</table>
+
+---
   
 
 <div align="center">
