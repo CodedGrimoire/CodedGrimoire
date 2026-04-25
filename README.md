@@ -6,18 +6,10 @@
 
 
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif" alt="coding" width="400"/>
-</p>
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodedGrimoire&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
+I am a **Computer Science and Engineering student** and **Full Stack Developer** focused on building scalable, clean, and practical software systems.
 
 - 💼 Currently working as a **Full Stack Developer & Backend Engineer**
 - 🎓 **Computer Science and Engineering** student
@@ -31,73 +23,134 @@
 - 🐱 Cat lover | 📖 Avid reader | 🎬 Cinephile
 
 
+
+
 ## 🚀 Tech Stack
 
 ### 🧩 Full Stack Development
-- **MERN Stack (MongoDB, Express, React, Node.js)**
+- **MERN Stack** (MongoDB, Express, React, Node.js)
 - **Next.js + PostgreSQL**
-- **REST API & WebSocket based apps**
+- **REST APIs & WebSocket-based applications**
 - **Supabase, Firebase, Neon**
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+### ⚙️ Backend Engineering
+- **Node.js / Express** → Scalable APIs & real-time systems  
+- **FastAPI / Django** → High-performance backends & AI-integrated applications  
+- **Spring Boot** → Enterprise-grade backend architecture  
+
+### 🗄️ Databases & Services
+- **PostgreSQL, MongoDB, MySQL**
+- **Supabase, Firebase, Neon**
+- **Vector-ready systems for AI / RAG pipelines**
+  
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚡ Full Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+
+<br/>
+
+<p>
+Modern web apps with clean UI, fast performance, and scalable architecture.
 </p>
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Backend Systems
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+
+<br/>
+
+<p>
+Robust APIs, real-time systems, and database design for production-ready systems.
 </p>
 
-### 🖥️ Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp;
-  <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="40"/>
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML & RAG
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br/>
+
+<p>
+Building intelligent systems using <b>Retrieval-Augmented Generation (RAG)</b>, LLM pipelines, vector search, and contextual AI applications.AI-powered features, data pipelines, and intelligent application integration.
+
 </p>
 
-### 🗄️ Databases & Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/111381231?s=200&v=4" width="40"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 🚀 Tech Stack
+
+### 🌐 Web & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 </p>
+
+---
+
+### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring" />
+</p>
+
+---
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,js" />
+</p>
+
+---
+
+### 🗄️ Databases & Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+  <img src="https://avatars.githubusercontent.com/u/111381231?s=200&v=4" width="48"/>
+</p>
+
+---
 
 ### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-🐧 Operating Systems
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vercel" />
 </p>
 
-### 🤖 AI / ML & Data
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/>&nbsp; <!-- LangChain -->
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/>&nbsp; <!-- LlamaIndex -->
- 
+---
+
+### 🐧 Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,apple,windows" />
 </p>
 
+---
+
+### 🤖 AI / ML & RAG
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48"/>
+</p>
+
+<p align="center">
+  <b>RAG Systems • LLM Pipelines • Vector Search • AI Applications</b>
+</p>
 
 
 ### 🧊 3D Contribution Graph
