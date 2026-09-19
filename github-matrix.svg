@@ -1,0 +1,5421 @@
+<svg width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <!-- Strong Neon Blue Glow -->
+  <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feColorMatrix type="matrix"
+      values="0 0 0 0 0
+              0 0 0 0 0.8
+              0 0 0 0 1
+              0 0 0 1 0" />
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<rect width="100%" height="100%" fill="black"/>
+
+        <text x="0"
+              y="-260"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-260"
+                     to="320"
+                     dur="3.304769041426169s"
+                     begin="0.7950395006736467s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="0"
+              y="-160"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-160"
+                     to="320"
+                     dur="3.304769041426169s"
+                     begin="0.7950395006736467s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="0"
+              y="-75"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-75"
+                     to="320"
+                     dur="3.304769041426169s"
+                     begin="0.7950395006736467s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="0"
+              y="-181"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-181"
+                     to="320"
+                     dur="3.304769041426169s"
+                     begin="0.7950395006736467s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="0"
+              y="-56"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-56"
+                     to="320"
+                     dur="3.304769041426169s"
+                     begin="0.7950395006736467s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="0"
+              y="-270"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-270"
+                     to="320"
+                     dur="3.304769041426169s"
+                     begin="0.7950395006736467s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="18"
+              y="-41"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-41"
+                     to="320"
+                     dur="5.522183689268674s"
+                     begin="2.6698162573448485s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="18"
+              y="-72"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-72"
+                     to="320"
+                     dur="5.522183689268674s"
+                     begin="2.6698162573448485s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="18"
+              y="-256"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-256"
+                     to="320"
+                     dur="5.522183689268674s"
+                     begin="2.6698162573448485s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="18"
+              y="-4"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-4"
+                     to="320"
+                     dur="5.522183689268674s"
+                     begin="2.6698162573448485s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="18"
+              y="-152"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-152"
+                     to="320"
+                     dur="5.522183689268674s"
+                     begin="2.6698162573448485s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="18"
+              y="-248"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-248"
+                     to="320"
+                     dur="5.522183689268674s"
+                     begin="2.6698162573448485s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="36"
+              y="-52"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-52"
+                     to="320"
+                     dur="3.9457409468944666s"
+                     begin="2.61087173947136s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="36"
+              y="-125"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-125"
+                     to="320"
+                     dur="3.9457409468944666s"
+                     begin="2.61087173947136s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="36"
+              y="-237"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-237"
+                     to="320"
+                     dur="3.9457409468944666s"
+                     begin="2.61087173947136s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="36"
+              y="-92"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-92"
+                     to="320"
+                     dur="3.9457409468944666s"
+                     begin="2.61087173947136s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="36"
+              y="-163"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-163"
+                     to="320"
+                     dur="3.9457409468944666s"
+                     begin="2.61087173947136s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="36"
+              y="-35"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-35"
+                     to="320"
+                     dur="3.9457409468944666s"
+                     begin="2.61087173947136s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="54"
+              y="-100"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-100"
+                     to="320"
+                     dur="3.3982409713161115s"
+                     begin="0.9233267109673285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="54"
+              y="-88"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-88"
+                     to="320"
+                     dur="3.3982409713161115s"
+                     begin="0.9233267109673285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="54"
+              y="-193"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-193"
+                     to="320"
+                     dur="3.3982409713161115s"
+                     begin="0.9233267109673285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="54"
+              y="-109"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-109"
+                     to="320"
+                     dur="3.3982409713161115s"
+                     begin="0.9233267109673285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="54"
+              y="-184"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-184"
+                     to="320"
+                     dur="3.3982409713161115s"
+                     begin="0.9233267109673285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="54"
+              y="-205"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-205"
+                     to="320"
+                     dur="3.3982409713161115s"
+                     begin="0.9233267109673285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="72"
+              y="-102"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-102"
+                     to="320"
+                     dur="3.7928316635315977s"
+                     begin="2.773663299624385s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="72"
+              y="-6"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-6"
+                     to="320"
+                     dur="3.7928316635315977s"
+                     begin="2.773663299624385s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="72"
+              y="-70"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-70"
+                     to="320"
+                     dur="3.7928316635315977s"
+                     begin="2.773663299624385s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="72"
+              y="-205"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-205"
+                     to="320"
+                     dur="3.7928316635315977s"
+                     begin="2.773663299624385s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="72"
+              y="-140"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-140"
+                     to="320"
+                     dur="3.7928316635315977s"
+                     begin="2.773663299624385s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="72"
+              y="-122"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-122"
+                     to="320"
+                     dur="3.7928316635315977s"
+                     begin="2.773663299624385s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="90"
+              y="-183"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-183"
+                     to="320"
+                     dur="4.738403254314697s"
+                     begin="0.7025020788723189s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="90"
+              y="-114"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-114"
+                     to="320"
+                     dur="4.738403254314697s"
+                     begin="0.7025020788723189s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="90"
+              y="-219"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-219"
+                     to="320"
+                     dur="4.738403254314697s"
+                     begin="0.7025020788723189s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="90"
+              y="-85"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-85"
+                     to="320"
+                     dur="4.738403254314697s"
+                     begin="0.7025020788723189s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="90"
+              y="-299"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-299"
+                     to="320"
+                     dur="4.738403254314697s"
+                     begin="0.7025020788723189s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="90"
+              y="-173"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-173"
+                     to="320"
+                     dur="4.738403254314697s"
+                     begin="0.7025020788723189s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="108"
+              y="-209"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-209"
+                     to="320"
+                     dur="4.5297910189782815s"
+                     begin="1.2586971441527273s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="108"
+              y="-123"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-123"
+                     to="320"
+                     dur="4.5297910189782815s"
+                     begin="1.2586971441527273s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="108"
+              y="-266"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-266"
+                     to="320"
+                     dur="4.5297910189782815s"
+                     begin="1.2586971441527273s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="108"
+              y="-283"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-283"
+                     to="320"
+                     dur="4.5297910189782815s"
+                     begin="1.2586971441527273s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="108"
+              y="-65"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-65"
+                     to="320"
+                     dur="4.5297910189782815s"
+                     begin="1.2586971441527273s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="108"
+              y="-87"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-87"
+                     to="320"
+                     dur="4.5297910189782815s"
+                     begin="1.2586971441527273s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="126"
+              y="-199"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-199"
+                     to="320"
+                     dur="5.443067732191244s"
+                     begin="2.1427893362715533s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="126"
+              y="-289"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-289"
+                     to="320"
+                     dur="5.443067732191244s"
+                     begin="2.1427893362715533s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="126"
+              y="-110"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-110"
+                     to="320"
+                     dur="5.443067732191244s"
+                     begin="2.1427893362715533s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="126"
+              y="-177"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-177"
+                     to="320"
+                     dur="5.443067732191244s"
+                     begin="2.1427893362715533s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="126"
+              y="-9"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-9"
+                     to="320"
+                     dur="5.443067732191244s"
+                     begin="2.1427893362715533s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="126"
+              y="-42"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-42"
+                     to="320"
+                     dur="5.443067732191244s"
+                     begin="2.1427893362715533s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="144"
+              y="-129"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-129"
+                     to="320"
+                     dur="5.374481536732905s"
+                     begin="0.5457740648373793s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="144"
+              y="-127"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-127"
+                     to="320"
+                     dur="5.374481536732905s"
+                     begin="0.5457740648373793s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="144"
+              y="-188"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-188"
+                     to="320"
+                     dur="5.374481536732905s"
+                     begin="0.5457740648373793s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="144"
+              y="-17"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-17"
+                     to="320"
+                     dur="5.374481536732905s"
+                     begin="0.5457740648373793s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="144"
+              y="-288"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-288"
+                     to="320"
+                     dur="5.374481536732905s"
+                     begin="0.5457740648373793s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="144"
+              y="-15"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-15"
+                     to="320"
+                     dur="5.374481536732905s"
+                     begin="0.5457740648373793s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="162"
+              y="-66"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-66"
+                     to="320"
+                     dur="5.669312330556779s"
+                     begin="2.888354809885832s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="162"
+              y="-199"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-199"
+                     to="320"
+                     dur="5.669312330556779s"
+                     begin="2.888354809885832s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="162"
+              y="-182"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-182"
+                     to="320"
+                     dur="5.669312330556779s"
+                     begin="2.888354809885832s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="162"
+              y="-153"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-153"
+                     to="320"
+                     dur="5.669312330556779s"
+                     begin="2.888354809885832s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="162"
+              y="-92"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-92"
+                     to="320"
+                     dur="5.669312330556779s"
+                     begin="2.888354809885832s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="162"
+              y="-202"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-202"
+                     to="320"
+                     dur="5.669312330556779s"
+                     begin="2.888354809885832s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="180"
+              y="-31"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-31"
+                     to="320"
+                     dur="4.268792148011182s"
+                     begin="2.647139685930094s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="180"
+              y="-2"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-2"
+                     to="320"
+                     dur="4.268792148011182s"
+                     begin="2.647139685930094s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="180"
+              y="-300"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-300"
+                     to="320"
+                     dur="4.268792148011182s"
+                     begin="2.647139685930094s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="180"
+              y="-264"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-264"
+                     to="320"
+                     dur="4.268792148011182s"
+                     begin="2.647139685930094s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="180"
+              y="-269"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-269"
+                     to="320"
+                     dur="4.268792148011182s"
+                     begin="2.647139685930094s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="180"
+              y="-108"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-108"
+                     to="320"
+                     dur="4.268792148011182s"
+                     begin="2.647139685930094s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="198"
+              y="-83"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-83"
+                     to="320"
+                     dur="4.241286911685581s"
+                     begin="2.601683297160285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="198"
+              y="-294"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-294"
+                     to="320"
+                     dur="4.241286911685581s"
+                     begin="2.601683297160285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="198"
+              y="-191"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-191"
+                     to="320"
+                     dur="4.241286911685581s"
+                     begin="2.601683297160285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="198"
+              y="-17"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-17"
+                     to="320"
+                     dur="4.241286911685581s"
+                     begin="2.601683297160285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="198"
+              y="-187"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-187"
+                     to="320"
+                     dur="4.241286911685581s"
+                     begin="2.601683297160285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="198"
+              y="-46"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-46"
+                     to="320"
+                     dur="4.241286911685581s"
+                     begin="2.601683297160285s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="216"
+              y="-210"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-210"
+                     to="320"
+                     dur="4.789298501373656s"
+                     begin="1.3564395391519264s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="216"
+              y="-110"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-110"
+                     to="320"
+                     dur="4.789298501373656s"
+                     begin="1.3564395391519264s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="216"
+              y="-292"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-292"
+                     to="320"
+                     dur="4.789298501373656s"
+                     begin="1.3564395391519264s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="216"
+              y="-39"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-39"
+                     to="320"
+                     dur="4.789298501373656s"
+                     begin="1.3564395391519264s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="216"
+              y="-99"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-99"
+                     to="320"
+                     dur="4.789298501373656s"
+                     begin="1.3564395391519264s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="216"
+              y="-92"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-92"
+                     to="320"
+                     dur="4.789298501373656s"
+                     begin="1.3564395391519264s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="234"
+              y="-95"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-95"
+                     to="320"
+                     dur="3.7564533102501674s"
+                     begin="1.036579325957283s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="234"
+              y="-196"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-196"
+                     to="320"
+                     dur="3.7564533102501674s"
+                     begin="1.036579325957283s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="234"
+              y="-254"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-254"
+                     to="320"
+                     dur="3.7564533102501674s"
+                     begin="1.036579325957283s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="234"
+              y="-81"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-81"
+                     to="320"
+                     dur="3.7564533102501674s"
+                     begin="1.036579325957283s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="234"
+              y="-2"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-2"
+                     to="320"
+                     dur="3.7564533102501674s"
+                     begin="1.036579325957283s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="234"
+              y="-68"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-68"
+                     to="320"
+                     dur="3.7564533102501674s"
+                     begin="1.036579325957283s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="252"
+              y="-107"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-107"
+                     to="320"
+                     dur="3.7889971204880926s"
+                     begin="1.9245745149157056s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="252"
+              y="-245"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-245"
+                     to="320"
+                     dur="3.7889971204880926s"
+                     begin="1.9245745149157056s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="252"
+              y="-54"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-54"
+                     to="320"
+                     dur="3.7889971204880926s"
+                     begin="1.9245745149157056s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="252"
+              y="-270"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-270"
+                     to="320"
+                     dur="3.7889971204880926s"
+                     begin="1.9245745149157056s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="252"
+              y="-215"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-215"
+                     to="320"
+                     dur="3.7889971204880926s"
+                     begin="1.9245745149157056s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="252"
+              y="-265"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-265"
+                     to="320"
+                     dur="3.7889971204880926s"
+                     begin="1.9245745149157056s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="270"
+              y="-261"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-261"
+                     to="320"
+                     dur="4.863304885705912s"
+                     begin="2.0743119255072795s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="270"
+              y="-262"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-262"
+                     to="320"
+                     dur="4.863304885705912s"
+                     begin="2.0743119255072795s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="270"
+              y="-188"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-188"
+                     to="320"
+                     dur="4.863304885705912s"
+                     begin="2.0743119255072795s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="270"
+              y="-135"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-135"
+                     to="320"
+                     dur="4.863304885705912s"
+                     begin="2.0743119255072795s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="270"
+              y="-88"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-88"
+                     to="320"
+                     dur="4.863304885705912s"
+                     begin="2.0743119255072795s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="270"
+              y="-32"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-32"
+                     to="320"
+                     dur="4.863304885705912s"
+                     begin="2.0743119255072795s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="288"
+              y="-154"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-154"
+                     to="320"
+                     dur="3.6367514555914755s"
+                     begin="2.4964536513428484s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="288"
+              y="-98"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-98"
+                     to="320"
+                     dur="3.6367514555914755s"
+                     begin="2.4964536513428484s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="288"
+              y="-105"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-105"
+                     to="320"
+                     dur="3.6367514555914755s"
+                     begin="2.4964536513428484s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="288"
+              y="-210"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-210"
+                     to="320"
+                     dur="3.6367514555914755s"
+                     begin="2.4964536513428484s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="288"
+              y="-230"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-230"
+                     to="320"
+                     dur="3.6367514555914755s"
+                     begin="2.4964536513428484s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="288"
+              y="-207"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-207"
+                     to="320"
+                     dur="3.6367514555914755s"
+                     begin="2.4964536513428484s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="306"
+              y="-199"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-199"
+                     to="320"
+                     dur="3.520293307893829s"
+                     begin="1.590921348385881s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="306"
+              y="-72"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-72"
+                     to="320"
+                     dur="3.520293307893829s"
+                     begin="1.590921348385881s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="306"
+              y="-159"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-159"
+                     to="320"
+                     dur="3.520293307893829s"
+                     begin="1.590921348385881s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="306"
+              y="-4"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-4"
+                     to="320"
+                     dur="3.520293307893829s"
+                     begin="1.590921348385881s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="306"
+              y="-25"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-25"
+                     to="320"
+                     dur="3.520293307893829s"
+                     begin="1.590921348385881s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="306"
+              y="-261"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-261"
+                     to="320"
+                     dur="3.520293307893829s"
+                     begin="1.590921348385881s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="324"
+              y="-243"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-243"
+                     to="320"
+                     dur="5.657181907252787s"
+                     begin="0.5502512629737789s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="324"
+              y="-241"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-241"
+                     to="320"
+                     dur="5.657181907252787s"
+                     begin="0.5502512629737789s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="324"
+              y="-243"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-243"
+                     to="320"
+                     dur="5.657181907252787s"
+                     begin="0.5502512629737789s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="324"
+              y="-100"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-100"
+                     to="320"
+                     dur="5.657181907252787s"
+                     begin="0.5502512629737789s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="324"
+              y="-287"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-287"
+                     to="320"
+                     dur="5.657181907252787s"
+                     begin="0.5502512629737789s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="324"
+              y="-160"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-160"
+                     to="320"
+                     dur="5.657181907252787s"
+                     begin="0.5502512629737789s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="342"
+              y="-85"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-85"
+                     to="320"
+                     dur="5.5943275982745515s"
+                     begin="2.196017684907653s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="342"
+              y="-171"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-171"
+                     to="320"
+                     dur="5.5943275982745515s"
+                     begin="2.196017684907653s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="342"
+              y="-124"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-124"
+                     to="320"
+                     dur="5.5943275982745515s"
+                     begin="2.196017684907653s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="342"
+              y="-141"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-141"
+                     to="320"
+                     dur="5.5943275982745515s"
+                     begin="2.196017684907653s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="342"
+              y="-133"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-133"
+                     to="320"
+                     dur="5.5943275982745515s"
+                     begin="2.196017684907653s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="342"
+              y="-300"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-300"
+                     to="320"
+                     dur="5.5943275982745515s"
+                     begin="2.196017684907653s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="360"
+              y="-60"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-60"
+                     to="320"
+                     dur="4.860407721029497s"
+                     begin="1.3823191328856912s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="360"
+              y="-227"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-227"
+                     to="320"
+                     dur="4.860407721029497s"
+                     begin="1.3823191328856912s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="360"
+              y="-194"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-194"
+                     to="320"
+                     dur="4.860407721029497s"
+                     begin="1.3823191328856912s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="360"
+              y="-265"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-265"
+                     to="320"
+                     dur="4.860407721029497s"
+                     begin="1.3823191328856912s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="360"
+              y="-268"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-268"
+                     to="320"
+                     dur="4.860407721029497s"
+                     begin="1.3823191328856912s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="360"
+              y="-119"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-119"
+                     to="320"
+                     dur="4.860407721029497s"
+                     begin="1.3823191328856912s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="378"
+              y="-126"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-126"
+                     to="320"
+                     dur="3.2551516304129917s"
+                     begin="0.6737810831968022s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="378"
+              y="-179"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-179"
+                     to="320"
+                     dur="3.2551516304129917s"
+                     begin="0.6737810831968022s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="378"
+              y="-80"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-80"
+                     to="320"
+                     dur="3.2551516304129917s"
+                     begin="0.6737810831968022s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="378"
+              y="-150"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-150"
+                     to="320"
+                     dur="3.2551516304129917s"
+                     begin="0.6737810831968022s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="378"
+              y="-66"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-66"
+                     to="320"
+                     dur="3.2551516304129917s"
+                     begin="0.6737810831968022s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="378"
+              y="-263"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-263"
+                     to="320"
+                     dur="3.2551516304129917s"
+                     begin="0.6737810831968022s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="396"
+              y="-243"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-243"
+                     to="320"
+                     dur="3.7657691636425943s"
+                     begin="2.3260180015585417s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="396"
+              y="-142"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-142"
+                     to="320"
+                     dur="3.7657691636425943s"
+                     begin="2.3260180015585417s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="396"
+              y="-236"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-236"
+                     to="320"
+                     dur="3.7657691636425943s"
+                     begin="2.3260180015585417s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="396"
+              y="-297"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-297"
+                     to="320"
+                     dur="3.7657691636425943s"
+                     begin="2.3260180015585417s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="396"
+              y="-203"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-203"
+                     to="320"
+                     dur="3.7657691636425943s"
+                     begin="2.3260180015585417s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="396"
+              y="-56"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-56"
+                     to="320"
+                     dur="3.7657691636425943s"
+                     begin="2.3260180015585417s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="414"
+              y="-57"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-57"
+                     to="320"
+                     dur="3.802790599769951s"
+                     begin="0.3041557943938419s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="414"
+              y="-98"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-98"
+                     to="320"
+                     dur="3.802790599769951s"
+                     begin="0.3041557943938419s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="414"
+              y="-266"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-266"
+                     to="320"
+                     dur="3.802790599769951s"
+                     begin="0.3041557943938419s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="414"
+              y="-88"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-88"
+                     to="320"
+                     dur="3.802790599769951s"
+                     begin="0.3041557943938419s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="414"
+              y="-131"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-131"
+                     to="320"
+                     dur="3.802790599769951s"
+                     begin="0.3041557943938419s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="414"
+              y="-83"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-83"
+                     to="320"
+                     dur="3.802790599769951s"
+                     begin="0.3041557943938419s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="432"
+              y="-126"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-126"
+                     to="320"
+                     dur="5.635790984176515s"
+                     begin="1.418077406648616s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="432"
+              y="-288"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-288"
+                     to="320"
+                     dur="5.635790984176515s"
+                     begin="1.418077406648616s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="432"
+              y="-67"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-67"
+                     to="320"
+                     dur="5.635790984176515s"
+                     begin="1.418077406648616s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="432"
+              y="-259"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-259"
+                     to="320"
+                     dur="5.635790984176515s"
+                     begin="1.418077406648616s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="432"
+              y="-177"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-177"
+                     to="320"
+                     dur="5.635790984176515s"
+                     begin="1.418077406648616s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="432"
+              y="-242"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-242"
+                     to="320"
+                     dur="5.635790984176515s"
+                     begin="1.418077406648616s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="450"
+              y="-268"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-268"
+                     to="320"
+                     dur="5.402703089835213s"
+                     begin="0.35085521881126047s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="450"
+              y="-283"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-283"
+                     to="320"
+                     dur="5.402703089835213s"
+                     begin="0.35085521881126047s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="450"
+              y="-216"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-216"
+                     to="320"
+                     dur="5.402703089835213s"
+                     begin="0.35085521881126047s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="450"
+              y="-129"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-129"
+                     to="320"
+                     dur="5.402703089835213s"
+                     begin="0.35085521881126047s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="450"
+              y="-27"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-27"
+                     to="320"
+                     dur="5.402703089835213s"
+                     begin="0.35085521881126047s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="450"
+              y="-182"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-182"
+                     to="320"
+                     dur="5.402703089835213s"
+                     begin="0.35085521881126047s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="468"
+              y="-72"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-72"
+                     to="320"
+                     dur="3.0625749034325933s"
+                     begin="2.155903498185348s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="468"
+              y="-231"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-231"
+                     to="320"
+                     dur="3.0625749034325933s"
+                     begin="2.155903498185348s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="468"
+              y="-283"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-283"
+                     to="320"
+                     dur="3.0625749034325933s"
+                     begin="2.155903498185348s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="468"
+              y="-210"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-210"
+                     to="320"
+                     dur="3.0625749034325933s"
+                     begin="2.155903498185348s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="468"
+              y="-236"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-236"
+                     to="320"
+                     dur="3.0625749034325933s"
+                     begin="2.155903498185348s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="468"
+              y="-43"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-43"
+                     to="320"
+                     dur="3.0625749034325933s"
+                     begin="2.155903498185348s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="486"
+              y="-267"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-267"
+                     to="320"
+                     dur="5.269637897490247s"
+                     begin="1.8920793148709127s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="486"
+              y="-286"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-286"
+                     to="320"
+                     dur="5.269637897490247s"
+                     begin="1.8920793148709127s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="486"
+              y="-190"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-190"
+                     to="320"
+                     dur="5.269637897490247s"
+                     begin="1.8920793148709127s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="486"
+              y="-99"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-99"
+                     to="320"
+                     dur="5.269637897490247s"
+                     begin="1.8920793148709127s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="486"
+              y="-210"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-210"
+                     to="320"
+                     dur="5.269637897490247s"
+                     begin="1.8920793148709127s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="486"
+              y="-188"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-188"
+                     to="320"
+                     dur="5.269637897490247s"
+                     begin="1.8920793148709127s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="504"
+              y="-44"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-44"
+                     to="320"
+                     dur="5.440066624563188s"
+                     begin="1.0620630757200733s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="504"
+              y="-285"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-285"
+                     to="320"
+                     dur="5.440066624563188s"
+                     begin="1.0620630757200733s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="504"
+              y="-126"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-126"
+                     to="320"
+                     dur="5.440066624563188s"
+                     begin="1.0620630757200733s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="504"
+              y="-98"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-98"
+                     to="320"
+                     dur="5.440066624563188s"
+                     begin="1.0620630757200733s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="504"
+              y="-56"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-56"
+                     to="320"
+                     dur="5.440066624563188s"
+                     begin="1.0620630757200733s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="504"
+              y="-132"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-132"
+                     to="320"
+                     dur="5.440066624563188s"
+                     begin="1.0620630757200733s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="522"
+              y="-256"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-256"
+                     to="320"
+                     dur="4.696715755074933s"
+                     begin="2.2340939943798244s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="522"
+              y="-10"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-10"
+                     to="320"
+                     dur="4.696715755074933s"
+                     begin="2.2340939943798244s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="522"
+              y="-230"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-230"
+                     to="320"
+                     dur="4.696715755074933s"
+                     begin="2.2340939943798244s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="522"
+              y="-221"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-221"
+                     to="320"
+                     dur="4.696715755074933s"
+                     begin="2.2340939943798244s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="522"
+              y="-233"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-233"
+                     to="320"
+                     dur="4.696715755074933s"
+                     begin="2.2340939943798244s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="522"
+              y="-37"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-37"
+                     to="320"
+                     dur="4.696715755074933s"
+                     begin="2.2340939943798244s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="540"
+              y="-196"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-196"
+                     to="320"
+                     dur="5.694799601877972s"
+                     begin="0.3198193159748993s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="540"
+              y="-205"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-205"
+                     to="320"
+                     dur="5.694799601877972s"
+                     begin="0.3198193159748993s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="540"
+              y="-33"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-33"
+                     to="320"
+                     dur="5.694799601877972s"
+                     begin="0.3198193159748993s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="540"
+              y="-267"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-267"
+                     to="320"
+                     dur="5.694799601877972s"
+                     begin="0.3198193159748993s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="540"
+              y="-125"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-125"
+                     to="320"
+                     dur="5.694799601877972s"
+                     begin="0.3198193159748993s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="540"
+              y="-150"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-150"
+                     to="320"
+                     dur="5.694799601877972s"
+                     begin="0.3198193159748993s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="558"
+              y="-114"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-114"
+                     to="320"
+                     dur="3.4722720925680455s"
+                     begin="2.5750942553590566s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="558"
+              y="-189"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-189"
+                     to="320"
+                     dur="3.4722720925680455s"
+                     begin="2.5750942553590566s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="558"
+              y="-236"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-236"
+                     to="320"
+                     dur="3.4722720925680455s"
+                     begin="2.5750942553590566s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="558"
+              y="-4"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-4"
+                     to="320"
+                     dur="3.4722720925680455s"
+                     begin="2.5750942553590566s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="558"
+              y="-109"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-109"
+                     to="320"
+                     dur="3.4722720925680455s"
+                     begin="2.5750942553590566s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="558"
+              y="-223"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-223"
+                     to="320"
+                     dur="3.4722720925680455s"
+                     begin="2.5750942553590566s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="576"
+              y="-33"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-33"
+                     to="320"
+                     dur="3.757305751932047s"
+                     begin="2.49422933743337s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="576"
+              y="-223"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-223"
+                     to="320"
+                     dur="3.757305751932047s"
+                     begin="2.49422933743337s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="576"
+              y="-83"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-83"
+                     to="320"
+                     dur="3.757305751932047s"
+                     begin="2.49422933743337s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="576"
+              y="-5"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-5"
+                     to="320"
+                     dur="3.757305751932047s"
+                     begin="2.49422933743337s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="576"
+              y="-85"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-85"
+                     to="320"
+                     dur="3.757305751932047s"
+                     begin="2.49422933743337s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="576"
+              y="-133"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-133"
+                     to="320"
+                     dur="3.757305751932047s"
+                     begin="2.49422933743337s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="594"
+              y="-159"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-159"
+                     to="320"
+                     dur="3.162370433412609s"
+                     begin="1.9405377497041103s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="594"
+              y="-167"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-167"
+                     to="320"
+                     dur="3.162370433412609s"
+                     begin="1.9405377497041103s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="594"
+              y="-19"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-19"
+                     to="320"
+                     dur="3.162370433412609s"
+                     begin="1.9405377497041103s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="594"
+              y="-226"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-226"
+                     to="320"
+                     dur="3.162370433412609s"
+                     begin="1.9405377497041103s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="594"
+              y="-119"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-119"
+                     to="320"
+                     dur="3.162370433412609s"
+                     begin="1.9405377497041103s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="594"
+              y="-244"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-244"
+                     to="320"
+                     dur="3.162370433412609s"
+                     begin="1.9405377497041103s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="612"
+              y="-23"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-23"
+                     to="320"
+                     dur="3.7859226026503054s"
+                     begin="2.5317873746690145s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="612"
+              y="-48"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-48"
+                     to="320"
+                     dur="3.7859226026503054s"
+                     begin="2.5317873746690145s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="612"
+              y="-5"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-5"
+                     to="320"
+                     dur="3.7859226026503054s"
+                     begin="2.5317873746690145s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="612"
+              y="-114"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-114"
+                     to="320"
+                     dur="3.7859226026503054s"
+                     begin="2.5317873746690145s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="612"
+              y="-294"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-294"
+                     to="320"
+                     dur="3.7859226026503054s"
+                     begin="2.5317873746690145s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="612"
+              y="-254"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-254"
+                     to="320"
+                     dur="3.7859226026503054s"
+                     begin="2.5317873746690145s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="630"
+              y="-194"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-194"
+                     to="320"
+                     dur="4.514913765478568s"
+                     begin="2.711960936428643s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="630"
+              y="-26"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-26"
+                     to="320"
+                     dur="4.514913765478568s"
+                     begin="2.711960936428643s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="630"
+              y="-281"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-281"
+                     to="320"
+                     dur="4.514913765478568s"
+                     begin="2.711960936428643s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="630"
+              y="-174"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-174"
+                     to="320"
+                     dur="4.514913765478568s"
+                     begin="2.711960936428643s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="630"
+              y="-231"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-231"
+                     to="320"
+                     dur="4.514913765478568s"
+                     begin="2.711960936428643s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="630"
+              y="-165"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-165"
+                     to="320"
+                     dur="4.514913765478568s"
+                     begin="2.711960936428643s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="648"
+              y="-134"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-134"
+                     to="320"
+                     dur="5.661299531619127s"
+                     begin="2.856747223722377s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="648"
+              y="-107"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-107"
+                     to="320"
+                     dur="5.661299531619127s"
+                     begin="2.856747223722377s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="648"
+              y="-49"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-49"
+                     to="320"
+                     dur="5.661299531619127s"
+                     begin="2.856747223722377s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="648"
+              y="-1"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-1"
+                     to="320"
+                     dur="5.661299531619127s"
+                     begin="2.856747223722377s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="648"
+              y="-212"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-212"
+                     to="320"
+                     dur="5.661299531619127s"
+                     begin="2.856747223722377s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="648"
+              y="-2"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-2"
+                     to="320"
+                     dur="5.661299531619127s"
+                     begin="2.856747223722377s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="666"
+              y="-46"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-46"
+                     to="320"
+                     dur="4.719157868333389s"
+                     begin="2.5309952973176397s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="666"
+              y="-156"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-156"
+                     to="320"
+                     dur="4.719157868333389s"
+                     begin="2.5309952973176397s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="666"
+              y="-50"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-50"
+                     to="320"
+                     dur="4.719157868333389s"
+                     begin="2.5309952973176397s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="666"
+              y="-295"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-295"
+                     to="320"
+                     dur="4.719157868333389s"
+                     begin="2.5309952973176397s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="666"
+              y="-282"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-282"
+                     to="320"
+                     dur="4.719157868333389s"
+                     begin="2.5309952973176397s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="666"
+              y="-6"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-6"
+                     to="320"
+                     dur="4.719157868333389s"
+                     begin="2.5309952973176397s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="684"
+              y="-191"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-191"
+                     to="320"
+                     dur="5.105979405718361s"
+                     begin="2.472337101930184s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="684"
+              y="-68"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-68"
+                     to="320"
+                     dur="5.105979405718361s"
+                     begin="2.472337101930184s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="684"
+              y="-41"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-41"
+                     to="320"
+                     dur="5.105979405718361s"
+                     begin="2.472337101930184s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="684"
+              y="-256"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-256"
+                     to="320"
+                     dur="5.105979405718361s"
+                     begin="2.472337101930184s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="684"
+              y="-293"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-293"
+                     to="320"
+                     dur="5.105979405718361s"
+                     begin="2.472337101930184s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="684"
+              y="-215"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-215"
+                     to="320"
+                     dur="5.105979405718361s"
+                     begin="2.472337101930184s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="702"
+              y="-20"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-20"
+                     to="320"
+                     dur="5.255742848139835s"
+                     begin="2.1433621072808444s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="702"
+              y="-21"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-21"
+                     to="320"
+                     dur="5.255742848139835s"
+                     begin="2.1433621072808444s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="702"
+              y="-62"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-62"
+                     to="320"
+                     dur="5.255742848139835s"
+                     begin="2.1433621072808444s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="702"
+              y="-52"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-52"
+                     to="320"
+                     dur="5.255742848139835s"
+                     begin="2.1433621072808444s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="702"
+              y="-121"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-121"
+                     to="320"
+                     dur="5.255742848139835s"
+                     begin="2.1433621072808444s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="702"
+              y="-237"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-237"
+                     to="320"
+                     dur="5.255742848139835s"
+                     begin="2.1433621072808444s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="720"
+              y="-268"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-268"
+                     to="320"
+                     dur="5.566278320264116s"
+                     begin="2.537618335118792s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="720"
+              y="-1"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-1"
+                     to="320"
+                     dur="5.566278320264116s"
+                     begin="2.537618335118792s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="720"
+              y="-208"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-208"
+                     to="320"
+                     dur="5.566278320264116s"
+                     begin="2.537618335118792s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="720"
+              y="-109"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-109"
+                     to="320"
+                     dur="5.566278320264116s"
+                     begin="2.537618335118792s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="720"
+              y="0"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="0"
+                     to="320"
+                     dur="5.566278320264116s"
+                     begin="2.537618335118792s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="720"
+              y="-170"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-170"
+                     to="320"
+                     dur="5.566278320264116s"
+                     begin="2.537618335118792s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="738"
+              y="-88"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-88"
+                     to="320"
+                     dur="3.166891569254003s"
+                     begin="1.5767703108112567s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="738"
+              y="-252"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-252"
+                     to="320"
+                     dur="3.166891569254003s"
+                     begin="1.5767703108112567s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="738"
+              y="-262"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-262"
+                     to="320"
+                     dur="3.166891569254003s"
+                     begin="1.5767703108112567s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="738"
+              y="-246"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-246"
+                     to="320"
+                     dur="3.166891569254003s"
+                     begin="1.5767703108112567s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="738"
+              y="-226"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-226"
+                     to="320"
+                     dur="3.166891569254003s"
+                     begin="1.5767703108112567s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="738"
+              y="-171"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-171"
+                     to="320"
+                     dur="3.166891569254003s"
+                     begin="1.5767703108112567s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="756"
+              y="-67"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-67"
+                     to="320"
+                     dur="5.348521827079662s"
+                     begin="0.3469668734316427s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="756"
+              y="-65"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-65"
+                     to="320"
+                     dur="5.348521827079662s"
+                     begin="0.3469668734316427s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="756"
+              y="-191"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-191"
+                     to="320"
+                     dur="5.348521827079662s"
+                     begin="0.3469668734316427s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="756"
+              y="-111"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-111"
+                     to="320"
+                     dur="5.348521827079662s"
+                     begin="0.3469668734316427s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="756"
+              y="-256"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-256"
+                     to="320"
+                     dur="5.348521827079662s"
+                     begin="0.3469668734316427s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="756"
+              y="-40"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-40"
+                     to="320"
+                     dur="5.348521827079662s"
+                     begin="0.3469668734316427s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="774"
+              y="-108"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-108"
+                     to="320"
+                     dur="5.011280846023979s"
+                     begin="0.6106083825704984s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="774"
+              y="-18"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-18"
+                     to="320"
+                     dur="5.011280846023979s"
+                     begin="0.6106083825704984s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="774"
+              y="-215"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-215"
+                     to="320"
+                     dur="5.011280846023979s"
+                     begin="0.6106083825704984s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="774"
+              y="-114"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-114"
+                     to="320"
+                     dur="5.011280846023979s"
+                     begin="0.6106083825704984s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="774"
+              y="-150"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-150"
+                     to="320"
+                     dur="5.011280846023979s"
+                     begin="0.6106083825704984s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="774"
+              y="-101"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-101"
+                     to="320"
+                     dur="5.011280846023979s"
+                     begin="0.6106083825704984s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="792"
+              y="-129"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-129"
+                     to="320"
+                     dur="3.6233790077864065s"
+                     begin="0.48839371760208694s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="792"
+              y="-284"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-284"
+                     to="320"
+                     dur="3.6233790077864065s"
+                     begin="0.48839371760208694s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="792"
+              y="-101"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-101"
+                     to="320"
+                     dur="3.6233790077864065s"
+                     begin="0.48839371760208694s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="792"
+              y="-172"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-172"
+                     to="320"
+                     dur="3.6233790077864065s"
+                     begin="0.48839371760208694s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="792"
+              y="-5"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-5"
+                     to="320"
+                     dur="3.6233790077864065s"
+                     begin="0.48839371760208694s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="792"
+              y="-290"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-290"
+                     to="320"
+                     dur="3.6233790077864065s"
+                     begin="0.48839371760208694s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="810"
+              y="-107"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-107"
+                     to="320"
+                     dur="3.823859337885836s"
+                     begin="1.3539877279534704s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="810"
+              y="-60"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-60"
+                     to="320"
+                     dur="3.823859337885836s"
+                     begin="1.3539877279534704s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="810"
+              y="-61"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-61"
+                     to="320"
+                     dur="3.823859337885836s"
+                     begin="1.3539877279534704s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="810"
+              y="-157"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-157"
+                     to="320"
+                     dur="3.823859337885836s"
+                     begin="1.3539877279534704s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="810"
+              y="-43"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-43"
+                     to="320"
+                     dur="3.823859337885836s"
+                     begin="1.3539877279534704s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="810"
+              y="-66"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-66"
+                     to="320"
+                     dur="3.823859337885836s"
+                     begin="1.3539877279534704s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="828"
+              y="-132"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-132"
+                     to="320"
+                     dur="4.776498238949658s"
+                     begin="2.079851941409819s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="828"
+              y="-152"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-152"
+                     to="320"
+                     dur="4.776498238949658s"
+                     begin="2.079851941409819s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="828"
+              y="-122"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-122"
+                     to="320"
+                     dur="4.776498238949658s"
+                     begin="2.079851941409819s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="828"
+              y="-253"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-253"
+                     to="320"
+                     dur="4.776498238949658s"
+                     begin="2.079851941409819s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="828"
+              y="-202"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-202"
+                     to="320"
+                     dur="4.776498238949658s"
+                     begin="2.079851941409819s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="828"
+              y="-221"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-221"
+                     to="320"
+                     dur="4.776498238949658s"
+                     begin="2.079851941409819s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="846"
+              y="-156"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-156"
+                     to="320"
+                     dur="4.664534282205123s"
+                     begin="2.6825334125570013s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="846"
+              y="-287"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-287"
+                     to="320"
+                     dur="4.664534282205123s"
+                     begin="2.6825334125570013s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="846"
+              y="-106"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-106"
+                     to="320"
+                     dur="4.664534282205123s"
+                     begin="2.6825334125570013s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="846"
+              y="-69"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-69"
+                     to="320"
+                     dur="4.664534282205123s"
+                     begin="2.6825334125570013s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="846"
+              y="-44"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-44"
+                     to="320"
+                     dur="4.664534282205123s"
+                     begin="2.6825334125570013s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="846"
+              y="-175"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-175"
+                     to="320"
+                     dur="4.664534282205123s"
+                     begin="2.6825334125570013s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="864"
+              y="-23"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-23"
+                     to="320"
+                     dur="3.519171338822207s"
+                     begin="0.35423666355363437s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="864"
+              y="-132"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-132"
+                     to="320"
+                     dur="3.519171338822207s"
+                     begin="0.35423666355363437s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="864"
+              y="-219"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-219"
+                     to="320"
+                     dur="3.519171338822207s"
+                     begin="0.35423666355363437s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="864"
+              y="-202"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-202"
+                     to="320"
+                     dur="3.519171338822207s"
+                     begin="0.35423666355363437s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="864"
+              y="-41"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-41"
+                     to="320"
+                     dur="3.519171338822207s"
+                     begin="0.35423666355363437s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="864"
+              y="-171"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-171"
+                     to="320"
+                     dur="3.519171338822207s"
+                     begin="0.35423666355363437s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="882"
+              y="-186"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-186"
+                     to="320"
+                     dur="4.424718399974648s"
+                     begin="0.22166044296654408s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="882"
+              y="-183"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-183"
+                     to="320"
+                     dur="4.424718399974648s"
+                     begin="0.22166044296654408s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="882"
+              y="-251"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-251"
+                     to="320"
+                     dur="4.424718399974648s"
+                     begin="0.22166044296654408s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="882"
+              y="-43"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-43"
+                     to="320"
+                     dur="4.424718399974648s"
+                     begin="0.22166044296654408s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="882"
+              y="-278"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            1
+
+            <animate attributeName="y"
+                     from="-278"
+                     to="320"
+                     dur="4.424718399974648s"
+                     begin="0.22166044296654408s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        
+        <text x="882"
+              y="-128"
+              fill="#00aaff"
+              font-size="18"
+              font-family="monospace"
+              filter="url(#neonGlow)">
+
+            0
+
+            <animate attributeName="y"
+                     from="-128"
+                     to="320"
+                     dur="4.424718399974648s"
+                     begin="0.22166044296654408s"
+                     repeatCount="indefinite"/>
+
+        </text>
+        </svg>
